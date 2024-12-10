@@ -1,41 +1,31 @@
+# Project Title
 
-# Readme Generator
-
-![License](https://img.shields.io/badge/license-Apache 2.0-blue.svg)
-
-## Description
-
-Generates a readme off of user input
-
-## Table of Contents (Optional)
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+Generate README File
 
 ## Installation
 
-N/A
+Use the package manager [npm](https://www.npmjs.com/) to install the necessary dependencies.
+
+```bash
+npm install
+```
 
 ## Usage
 
-N/A
+Provide instructions and examples for using the project.
 
-## License
-
-This project is licensed under the Apache 2.0 license. For more details, see the [Apache 2.0 License]([Apache 2.0 License](https://opensource.org/licenses/Apache-2.0)).
+```bash
+node index.js
+```
 
 ## Contributing
 
 N/A
 
-## Tests
+## License
 
 N/A
 
-## Questions
+## Link To Demonstration Video
 
-If you have any questions, feel free to reach out to me at [Shadowsdepth22@gmail.com](mailto:Shadowsdepth22@gmail.com). You can also find more of my work on my [GitHub](https://github.com/Shadowsdepth).
+https://app.screencastify.com/v3/watch/q5Sh0mVxO2jpKMA65plQ

@@ -66,8 +66,8 @@ function init() {
     .prompt(questions)
     .then((answers) => {
       const markdown = generateMarkdown(answers);
-      writeToFile('README.md', markdown);
-      console.log('README.md file has been generated!');
+      writeToFile('GeneratedREADME.md', markdown);
+      console.log('GeneratedREADME.md file has been generated!');
     })
     .catch((error) => {
       if (error.isTtyError) {
